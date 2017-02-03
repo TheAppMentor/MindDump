@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "92ae45c92fe077334609c25cbd202e20"
+build_time: [539433597, 462957000]
+inputs:
+  "/Users/i328244/Desktop/XCode Projects/MindDump/MindDump/AppDelegate.swift": !dirty [539433537, 0]
+  "/Users/i328244/Desktop/XCode Projects/MindDump/MindDump/CaptureScreenVC.swift": [539433596, 0]
